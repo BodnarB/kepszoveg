@@ -1,0 +1,22 @@
+{
+    "home": [
+        {
+            "nr": 33,
+            "name": "Ancsin Gábor"
+        },
+        {
+            "nr": 9,
+            "name": "Balogh Zsolt"
+        }
+    ],
+    "guest": [
+        {
+            "nr": 10,
+            "name": "Jan Baumruk"
+        },
+        {
+            "nr": 21,
+            "name": "Jan Biza"
+        }
+    ]
+}
