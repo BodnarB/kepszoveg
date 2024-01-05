@@ -44,7 +44,4 @@ fetch('./teams.json')
         resetBtn.addEventListener('click', () => {
             textarea.value = sampleText
         })
-
-  
-
     })
