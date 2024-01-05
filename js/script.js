@@ -7,7 +7,7 @@ let playername = document.querySelectorAll('.playername')
 let copyBtn = document.querySelector('.copy-btn')
 let resetBtn = document.querySelector('.reset-btn')
 let textarea = document.querySelector('.kepszoveg')
-let sampleText = " és , a cseh válogatott játékosa a Magyarország-Csehország férfi kézilabda felkészülési mérkőzésen a Tatabányai Multifunkciós Csarnokban 2024. január 5-én."
+let sampleText = "YX és a cseh XY a Magyarország-Csehország férfi kézilabda felkészülési mérkőzésen a Tatabányai Multifunkciós Csarnokban 2024. január 5-én."
 
 fetch('./teams.json')
     .then((response) => response.json())
